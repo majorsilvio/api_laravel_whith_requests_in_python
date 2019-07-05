@@ -1,7 +1,7 @@
 <?php
 namespace App\Http\Controllers\Api;
 use App\API\ApiError;
-use App\AnimeController;
+use App\Anime;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 class AnimeController extends Controller
